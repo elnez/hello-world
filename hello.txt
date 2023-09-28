@@ -1,0 +1,12 @@
+PPPPPP  IIIII NN   NN  CCCC  H     H EEEEEEE
+P     P  III  NNN  NN C       H     H E
+PPPPPP   III  NN N NN C       HHHHHHH EEEE
+P        III  NN  NNN C       H     H E
+P       IIIII NN   NN  CCCC  H     H EEEEEEE
+
+IIIII TTTTTTT ZZZZZZZ EEEEEEE L      L
+ III     T        ZZ    E       L      L
+ III     T       ZZ     EEEE    L      L
+ III     T      ZZ      E       L      L
+IIIII    T     ZZZZZZZ EEEEEEE LLLLLL LLLLLL
+
